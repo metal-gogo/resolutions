@@ -27,5 +27,5 @@ I'm launching a meetup this year. I want it to be a monthly gig.
 ### Workout at least 3 times per week, for at least 40 weeks (0/40) ![Progress](http://progressed.io/bar/0)
 I want to make a workout routine. The best way to accomplish this is by setting weekly goals.
 
-### Lose 2 kg per month in average (I started with 106 kg) 2/24) ![Progress](http://progressed.io/bar/8)
-I'm really overweight. I need to slim down to feel better. I believe that with a better diet and a workout habit I'll be able to lose some weight in a healthy way.
+### Lose 2 kg per month in average (2/24) ![Progress](http://progressed.io/bar/8)
+I'm really overweight. I need to slim down to feel better. I believe that with a better diet and a workout habit I'll be able to lose some weight in a healthy way. I started with 106 kg, so the goal is 84 kg.
