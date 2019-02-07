@@ -4,7 +4,7 @@ A convinient place for tracking my yearly resolutions
 ## 2019 Resolutions
 This are the 2019 resolutions:
 
-### Go to a field trip at least once per month (2/12) ![Progress](http://progressed.io/bar/8)
+### Go to a field trip at least once per month (2/12) ![Progress](http://progressed.io/bar/16)
 I want to have a picnic or visit a new outdoors place with my daughter, at least once a month.
 
 - Trip to [Bosque de chapultepec](https://www.google.com/maps/place/Bosque+de+Chapultepec/@19.4194815,-99.1916445,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff574549573f:0x42e2e5c1a219c3af!8m2!3d19.4194815!4d-99.1894558)
