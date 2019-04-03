@@ -30,7 +30,7 @@ I'm launching a meetup this year. I want it to be a monthly gig.
 - March 7, 2019: https://www.meetup.com/Frontend-Love-CDMX/events/258992612/
 - April 4, 2019: https://www.meetup.com/Frontend-Love-CDMX/events/260098210/
 
-### Workout at least 3 times per week, for at least 40 weeks (1/40) ![Progress](http://progressed.io/bar/2.5)
+### Workout at least 3 times per week, for at least 40 weeks (1/40) ![Progress](http://progressed.io/bar/2)
 I want to make a workout routine. The best way to accomplish this is by setting weekly goals.
 
 - Week March 18 - March 24
